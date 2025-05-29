@@ -45,7 +45,7 @@ Taskify is a productivity app built with Flutter that enables users to manage pe
 
 ---
 
-#ScreenShots
+##ScreenShots
 ![image](https://github.com/user-attachments/assets/df631492-c598-4092-8878-d4cc1d59e8d9)
 ![image](https://github.com/user-attachments/assets/4e926bb4-0011-4b60-8857-449f393f3cca)
 ![image](https://github.com/user-attachments/assets/7b09757d-0864-410f-bf72-ae9f9eb8aa2c)
@@ -58,4 +58,5 @@ Taskify is a productivity app built with Flutter that enables users to manage pe
 ![image](https://github.com/user-attachments/assets/66ef46b9-949d-4ba7-8530-7d1fc91feaa0)
 ![image](https://github.com/user-attachments/assets/6a998ca5-1e59-441a-8703-168276011fc0)
 
+![Screenshot 2025-05-29 231339](https://github.com/user-attachments/assets/c5757ba3-aa54-45ee-b671-c3eb5bff1ab0)
 
